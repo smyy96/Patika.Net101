@@ -6,5 +6,8 @@ Patika platformundaki C# 101 dersindeki ödevlerin listesi.
 ```
 ```
 * Değişken Türleri
+* Operatörler
+* Tip Dönüşümleri
+* Try Catch Finally
 ```
 #
