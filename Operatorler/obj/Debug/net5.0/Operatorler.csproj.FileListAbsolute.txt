@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.exe
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.dll
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.dll
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+E:\ders notları\PATİKA\C#\Operatorler\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
