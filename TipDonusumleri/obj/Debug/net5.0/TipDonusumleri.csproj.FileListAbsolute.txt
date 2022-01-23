@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.exe
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.deps.json
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.json
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.dev.json
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.dll
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\ref\TipDonusumleri.dll
+E:\ders notları\PATİKA\C#\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.pdb
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfo.cs
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.dll
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\ref\TipDonusumleri.dll
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.pdb
+E:\ders notları\PATİKA\C#\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.genruntimeconfig.cache
