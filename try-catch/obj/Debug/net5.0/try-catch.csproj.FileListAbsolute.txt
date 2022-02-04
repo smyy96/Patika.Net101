@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.exe
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.deps.json
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.json
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.runtimeconfig.dev.json
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.dll
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\ref\try-catch.dll
+E:\ders notları\PATİKA\C#\try-catch\bin\Debug\net5.0\try-catch.pdb
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.AssemblyInfo.cs
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.dll
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\ref\try-catch.dll
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.pdb
+E:\ders notları\PATİKA\C#\try-catch\obj\Debug\net5.0\try-catch.genruntimeconfig.cache
