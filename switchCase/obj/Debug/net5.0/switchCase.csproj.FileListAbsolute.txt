@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.exe
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.deps.json
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.json
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.dev.json
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.dll
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\ref\switchCase.dll
+E:\ders notları\PATİKA\C#\switchCase\bin\Debug\net5.0\switchCase.pdb
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfo.cs
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.dll
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\ref\switchCase.dll
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.pdb
+E:\ders notları\PATİKA\C#\switchCase\obj\Debug\net5.0\switchCase.genruntimeconfig.cache
