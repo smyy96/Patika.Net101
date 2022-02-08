@@ -9,5 +9,11 @@ Patika platformundaki C# 101 dersindeki ödevlerin listesi.
 * Operatörler
 * Tip Dönüşümleri
 * Try Catch Finally
+* If Else
+* Switch Case
+* For Loop ve Break Continue
+* While ve ForEach
+* Dizi Tanımlama
+* Array Metod
 ```
 #
