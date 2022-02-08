@@ -1,0 +1,16 @@
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.exe
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.deps.json
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.runtimeconfig.json
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.runtimeconfig.dev.json
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.dll
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\ref\kararYapilariIf.dll
+E:\ders notları\PATİKA\C#\kararYapilariIf\bin\Debug\net5.0\kararYapilariIf.pdb
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.csproj.AssemblyReference.cache
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.GeneratedMSBuildEditorConfig.editorconfig
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.AssemblyInfoInputs.cache
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.AssemblyInfo.cs
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.csproj.CoreCompileInputs.cache
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.dll
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\ref\kararYapilariIf.dll
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.pdb
+E:\ders notları\PATİKA\C#\kararYapilariIf\obj\Debug\net5.0\kararYapilariIf.genruntimeconfig.cache
