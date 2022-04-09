@@ -14,6 +14,7 @@ Patika platformundaki C# 101 dersindeki ödevlerin listesi.
 * For Loop ve Break Continue
 * While ve ForEach
 * Dizi Tanımlama
-* Array Metod
+* Array Metot
+* 
 ```
 #
