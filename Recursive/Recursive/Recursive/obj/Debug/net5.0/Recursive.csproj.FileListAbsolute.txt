@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\ref\Recursive.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\bin\Debug\net5.0\Recursive.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\ref\Recursive.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Recursive\Recursive\Recursive\obj\Debug\net5.0\Recursive.genruntimeconfig.cache
