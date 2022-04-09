@@ -56,9 +56,34 @@ namespace Homework1
         }
 
 
+
+        /*3. Ödev
+         Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n). Sonrasında kullanıcıdan n adet kelime girmesi isteyin. Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
+        */
+
+        public static void ReverseWord(int n)
+        {
+            string[] words = new string[n];
+            Console.WriteLine($"{n} adet kelime giriniz.");
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write($"{i + 1}. kelimeyi giriniz: ");
+                words[i] = Console.ReadLine();
+            }
+
+            Array.Reverse(words);//reverse metodu ile diziyi ters cevirme
+           
+            Console.WriteLine($"Girdiginiz kelimelerin sondan başa doğru sıralanması.");
+            foreach (var item in words) // diziyi ekrana yazdırma
+            {
+                Console.Write($"{item}, ");
+            }
+        }
+
+
         static void Main(string[] args)
         {
-            Console.WriteLine("1. Ödev");// Ödev 1
+            /*Console.WriteLine("1. Ödev");// Ödev 1
             Console.Write("Positif bir sayı giriniz: ");
             int postiveNum = int.Parse(Console.ReadLine());
             PositiveNumber(postiveNum);
@@ -69,7 +94,13 @@ namespace Homework1
             int size = int.Parse(Console.ReadLine());
             Console.Write("Positif bir sayı giriniz: ");
             int dividing = int.Parse(Console.ReadLine());
-            PositiveDivisor(size,dividing);
+            PositiveDivisor(size,dividing);*/
+
+
+            Console.WriteLine("3. Ödev");// Ödev 3
+            Console.Write("Positif bir sayı giriniz: ");
+            int n = int.Parse(Console.ReadLine());
+            ReverseWord(n);
         }
     }
 }
