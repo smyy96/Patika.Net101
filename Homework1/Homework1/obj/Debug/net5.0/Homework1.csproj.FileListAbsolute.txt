@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\ref\Homework1.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\bin\Debug\net5.0\Homework1.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\ref\Homework1.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Homework1\Homework1\obj\Debug\net5.0\Homework1.genruntimeconfig.cache
