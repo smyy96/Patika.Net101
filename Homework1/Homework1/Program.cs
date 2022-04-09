@@ -81,9 +81,22 @@ namespace Homework1
         }
 
 
+
+
+        /* 4.Ödev
+            Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin. Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
+         */
+        public static void Sentence(string sente)
+        {
+            string[] word = sente.Split(" ");
+            Console.WriteLine("Kelime sayısı: " + word.Length);
+            Console.WriteLine("Kelime sayısı: " + (sente.Length-(word.Length-1)));// cümledeki harf sayısını bulmak için cümledeki toplam karakter sayısından boşlukları cıkartıyoruz.
+        }
+
+
         static void Main(string[] args)
         {
-            /*Console.WriteLine("1. Ödev");// Ödev 1
+            Console.WriteLine("1. Ödev");// Ödev 1
             Console.Write("Positif bir sayı giriniz: ");
             int postiveNum = int.Parse(Console.ReadLine());
             PositiveNumber(postiveNum);
@@ -94,13 +107,18 @@ namespace Homework1
             int size = int.Parse(Console.ReadLine());
             Console.Write("Positif bir sayı giriniz: ");
             int dividing = int.Parse(Console.ReadLine());
-            PositiveDivisor(size,dividing);*/
+            PositiveDivisor(size,dividing);
 
 
             Console.WriteLine("3. Ödev");// Ödev 3
             Console.Write("Positif bir sayı giriniz: ");
             int n = int.Parse(Console.ReadLine());
             ReverseWord(n);
+
+            Console.WriteLine("4. Ödev");// Ödev 4
+            Console.Write("Bir cümle yazınız: ");
+            string sentence = Console.ReadLine();
+            Sentence(sentence);
         }
     }
 }
