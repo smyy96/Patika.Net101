@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\ref\KurucuMetotlar.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\bin\Debug\net5.0\KurucuMetotlar.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\ref\KurucuMetotlar.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\KurucuMetotlar\KurucuMetotlar\obj\Debug\net5.0\KurucuMetotlar.genruntimeconfig.cache
