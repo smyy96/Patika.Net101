@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\ref\SinifKavrami.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\bin\Debug\net5.0\SinifKavrami.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\ref\SinifKavrami.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\SinifKavrami\SinifKavrami\obj\Debug\net5.0\SinifKavrami.genruntimeconfig.cache
