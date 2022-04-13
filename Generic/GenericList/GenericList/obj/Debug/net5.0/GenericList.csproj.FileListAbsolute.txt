@@ -1,0 +1,15 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\bin\Debug\net5.0\GenericList.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\Generic\GenericList\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
