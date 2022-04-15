@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\Sumeyye\Source\Repos\Patika.Net101\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
