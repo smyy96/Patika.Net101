@@ -5,10 +5,7 @@ namespace encapsulation
     class Program
     {
         static void Main(string[] args)
-        {//Kapsülleme bir nesnenin bazı özelliklerini yada işlevlerini metodlarını diğer classlardan ve diğer nesnelerden korumak anlamına geliyor.
-            //Bu işlem erişim belirleyiciler ile yapılır.Bir aalanı korumak istiyorsak o alanı private olarak tanımlamalıyız. Böylece baska bir classdan nesne olusturuldugunda bu alana erişilemez.
-            //Ayrıca alanı dışarıya açmak istiyoruz ama bazı koşullarda kullanılmasını istersek.Bu alana bir değer atanmak istendiğinde bu değeri kontrol ederek istemediğimiz bir değerse hata fırlatmak isteyebiliriz.
-            //Böyle durumlarda encapsulation kullanırız.
+        {
             Ogrenci ogrenci=new Ogrenci();
             ogrenci.Isim="Sümeyye";
             ogrenci.Soyisim="Coşkun";
