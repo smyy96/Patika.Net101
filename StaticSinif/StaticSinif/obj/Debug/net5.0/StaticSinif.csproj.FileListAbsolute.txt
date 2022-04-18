@@ -1,0 +1,15 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\bin\Debug\net5.0\StaticSinif.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\StaticSinif\StaticSinif\obj\Debug\net5.0\StaticSinif.genruntimeconfig.cache
