@@ -1,0 +1,16 @@
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.exe
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.deps.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.runtimeconfig.dev.json
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\ref\TelefonRehberiUygulamasi.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\bin\Debug\net5.0\TelefonRehberiUygulamasi.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\ref\TelefonRehberiUygulamasi.dll
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.pdb
+C:\Users\Sumeyye\source\repos\Patika.Net101\TelefonRehberiUygulamasi\TelefonRehberiUygulamasi\obj\Debug\net5.0\TelefonRehberiUygulamasi.genruntimeconfig.cache
