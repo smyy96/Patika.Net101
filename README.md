@@ -16,5 +16,9 @@ Patika platformundaki C# 101 dersindeki ödevlerin listesi.
 * Dizi Tanımlama
 * Array Metot
 * 
+``` 
+### Projeler
 ```
-#
+* Telefon Rehberi Uygulaması
+* Console ToDo Uygulaması
+```
